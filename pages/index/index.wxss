@@ -1,0 +1,22 @@
+/**index.wxss**/
+.swiper {
+  height: 350rpx;
+  width: 100%;
+}
+.swiper image {
+  height: 100%;
+  width: 100%;
+}
+.big-logo{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.logoinfo{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width:150rpx; 
+	height: 150rpx; 
+}
